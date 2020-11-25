@@ -1,5 +1,5 @@
 
-Com esse comando foi criado uma EC2 com ubuntu 20.04 e o tipo de instancia t2.medium
+## Com esse comando foi criado uma EC2 com ubuntu 20.04 e o tipo de instancia t2.medium
 
 data "aws_ami" "ubuntu" {
   most_recent = true
