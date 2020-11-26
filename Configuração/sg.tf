@@ -1,4 +1,4 @@
-Configurado os grupos de segurança
+## Configurado os grupos de segurança.
 
 resource "aws_security_group" "allow_ssh" {
   name        = "allow_ssh"
