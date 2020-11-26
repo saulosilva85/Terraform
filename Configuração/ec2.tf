@@ -1,4 +1,4 @@
-Com esse comando foi criado 3 EC2 com ubuntu 20.04
+## Com esse comando foi criado 3 EC2 com ubuntu 20.04
 
 data "aws_ami" "ubuntu" {
   most_recent = true
