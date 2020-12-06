@@ -1,10 +1,10 @@
 ##                          INSTALAÇÃO TERRAFORM NO DEBIAN
 
 Use os seguintes comandos para instalar os softwares necessários:
-#### apt-get update
-#### apt-get upgrade
-#### apt-get install vim
-#### apt-get install wget unzip
+#### sudo apt-get update
+#### sudo apt-get upgrade
+#### sudo apt-get install vim
+#### sudo apt-get install wget unzip
 
 Crie uma pasta para salvar o download do terraform usando o seguite comando:
 #### mkdir /downloads/terraform -p
@@ -19,4 +19,4 @@ Após finalizar o download do terraform, extraia o pacote de instalação usando
 #### unzip terraform_0.14.0_linux_amd64.zip
 
 Instale o terraform com o comando abaixo:
-#### apt-get install terraform /usr/local/bin/
+#### sudo apt-get install terraform /usr/local/bin/
