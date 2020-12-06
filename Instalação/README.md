@@ -18,5 +18,5 @@ Use o comando WGET para executar o download do terraform:
 Após finalizar o download do terraform, extraia o pacote de instalação usando o seguite comando:
 #### unzip terraform_0.14.0_linux_amd64.zip
 
-Instale o terraform com o comando abaixo:
+Após extrair o arquivo instale o terraform com o comando abaixo:
 #### sudo apt-get install terraform /usr/local/bin/
