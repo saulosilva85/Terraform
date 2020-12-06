@@ -1,6 +1,6 @@
 ##                          INSTALAÇÃO TERRAFORM NO DEBIAN
 
-No console do Linux, use os seguintes comandos para instalar o software necessário:
+Use os seguintes comandos para instalar os softwares necessários:
 #### apt-get update
 #### apt-get upgrade
 #### apt-get install vim
