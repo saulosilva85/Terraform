@@ -1,4 +1,4 @@
-##                          Instalação Terraform no Debian
+##                          Instalação do Terraform no Debian
 
 Use os seguintes comandos para instalar os softwares necessários:
 #### sudo apt-get update
